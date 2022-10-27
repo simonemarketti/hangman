@@ -65,7 +65,7 @@ const checkIfWinOrGameOver = function () {
     }
     if (counter === 7) {
         const loseMessage = document.createElement("h2")
-        loseMessage.textContent = "You lost!"
+        loseMessage.textContent = "You lose!"
         document.body.appendChild(loseMessage)
 
         letters.forEach(letter => {

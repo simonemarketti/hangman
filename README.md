@@ -1,6 +1,6 @@
 # Hangman
 
-## Overview
+### Overview
 
 This is the hangman game in italian.
 
